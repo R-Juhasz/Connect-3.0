@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Connect 3.0</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="winner">Name</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="winner1">WINNER</string>
+</resources>
